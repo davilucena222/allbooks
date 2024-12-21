@@ -21,4 +21,5 @@ server.listen(8000, () => {
   console.log("API disponível em http://localhost:8000")
   console.log("Testando!")
   console.log("Workflow!")
+  console.log("Master!")
 })
